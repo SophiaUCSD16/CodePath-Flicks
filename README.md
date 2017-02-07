@@ -34,7 +34,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/FRQa9pC.gifv' title='Movie View Demo' width='' alt='Video Walkthrough' />
+<img src='file:///Users/jingyahuang/CodePath/IOS/WEEK1Flicks/Flicks%20Demo.gif' title='Movie View Demo' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
