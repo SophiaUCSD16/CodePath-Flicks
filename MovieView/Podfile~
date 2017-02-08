@@ -8,6 +8,5 @@ target 'MovieView' do
 
   # Pods for MovieView
     pod 'AFNetworking'
-    pod 'MBProgressHUD'
 
 end
