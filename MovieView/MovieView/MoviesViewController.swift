@@ -196,7 +196,7 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
     func scrollViewDidScroll(_ scrollView: UIScrollView) {
         if (!isMoreDataLoading) {
             // Calculate the position of one screen length before the bottom of the results
-            let scrollViewContentHeight = tableView.contentSize.height
+            let scrollViewContentHeight = tableView.contentSize.height / 2
             let scrollOffsetThreshold = scrollViewContentHeight - tableView.bounds.size.height
             
             // When the user has scrolled past the threshold, start requesting
